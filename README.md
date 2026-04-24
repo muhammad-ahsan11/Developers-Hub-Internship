@@ -63,15 +63,4 @@ This project demonstrates how exploratory data analysis and visualization help u
 - `README.md` → Project documentation
 - `images/` → Graph screenshots (optional)
 
----
 
-## 🚀 Future Improvements
-
-- Apply machine learning models (Logistic Regression, KNN)
-- Evaluate model accuracy
-- Build a classification predictor
-
----
-
-## 👨‍💻 Author
-Student Project – Data Science / Machine Learning Basics
