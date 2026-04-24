@@ -20,7 +20,6 @@ The Iris dataset contains 150 samples of iris flowers with the following feature
 - Python
 - Google Colab
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
 
